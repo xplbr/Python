@@ -1,0 +1,5 @@
+a=int(input("podaj rok urodzenia"))
+if a<2009:
+    print("witaj")
+else:
+    print("jestes za młody")
