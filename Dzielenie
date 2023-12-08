@@ -1,0 +1,6 @@
+a=int(input("podaj a"))
+b=int(input("podaj b"))
+if b!=0:
+    print("wynik=",a/b)
+else:
+    print("b=0")
