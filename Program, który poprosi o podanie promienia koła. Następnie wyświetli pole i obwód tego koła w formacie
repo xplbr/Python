@@ -1,0 +1,5 @@
+from math import pi
+
+r = float(input("Podaj promień koła: "))
+
+print("Pole koła o promieniu", r, "wynosi", pi*r*r, "a jego obwód jest równy", 2*r*pi)
